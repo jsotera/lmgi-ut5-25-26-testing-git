@@ -9,6 +9,10 @@ div {
     margin-top: 70px;
 }
 
+a {
+	color: red;
+}
+
 h1 {
     color: aqua;
 }
