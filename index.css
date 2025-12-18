@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+    color: pink;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+div {
+    margin-top: 70px;
+}
