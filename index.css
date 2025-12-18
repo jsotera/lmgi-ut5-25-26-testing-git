@@ -8,3 +8,7 @@ body {
 div {
     margin-top: 70px;
 }
+
+a {
+	color: red;
+}
